@@ -1,1 +1,1 @@
-# Tech-Pricing
+#zerorez-pricing-app
